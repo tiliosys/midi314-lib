@@ -1,7 +1,7 @@
 [package]
 name = "midi314"
 version = "0.1.0"
-authors = ["Guillaume Savaton <guillaume@baierouge.fr>"]
+authors = ["Guillaume Savaton <guillaume.savaton@tiliosys.fr>"]
 
 [dependencies]
 rimd = { git = "https://github.com/RustAudio/rimd.git" }
